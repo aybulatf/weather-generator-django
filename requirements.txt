@@ -1,0 +1,12 @@
+Django
+gunicorn
+psycopg2
+bokeh
+djangorestframework
+Jinja2
+MarkupSafe
+numpy
+pandas
+xlrd
+scipy
+six
